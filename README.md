@@ -32,3 +32,6 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 Original content
 Temporary work
+
+
+#Thus, the Git stash operation was successfully performed using GitHub Codespaces. A file was created and committed, then modified without committing. The modifications were temporarily stored using git stash, the working tree was verified to be clean, and the stashed changes were successfully restored using git stash pop.
